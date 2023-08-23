@@ -7,6 +7,9 @@ Created on Mon Jan 23 14:41:57 2023
 
 @author: d935892
 Gabriel Olivera
+
+retomando 23/8/23
+
 """
 
 
